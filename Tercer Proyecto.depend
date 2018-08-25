@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524247617 source:c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"Libro.h"
+	"Disco.h"
+	"Software.h"
+	"Fecha.h"
+	"Reserva.h"
+
+1524195978 c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\libro.h
+	<iostream>
+	"Material.h"
+
+1524013563 c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\material.h
+	<iostream>
+
+1524078354 c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\disco.h
+	<iostream>
+	"Material.h"
+
+1524078399 c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\software.h
+	<iostream>
+	"Material.h"
+
+1524230926 c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\fecha.h
+	<iostream>
+
+1524076467 c:\users\dell\dropbox\segundo semeste\poo\tercer proyecto\reserva.h
+	<iostream>
+	"Fecha.h"
+
